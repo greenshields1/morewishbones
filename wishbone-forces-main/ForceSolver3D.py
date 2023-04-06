@@ -3,6 +3,8 @@ import pandas as pd#For storing data and finding highest values
 import csv
 
 
+print("oiaewfwufifgf")
+
 class force():
     def __init__(self,direction,position):
         self.direction = direction/np.linalg.norm(direction)
